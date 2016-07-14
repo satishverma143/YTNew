@@ -1,0 +1,16 @@
+{
+  "name": "YTnew",
+  "description": "An application for rapid development",
+  "keywords": ["microframework","rest","router", "psr7"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Satish Verma",
+      "email": "Satish.verma143@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "monolog/monolog": "^1.17"
+  }
+}
